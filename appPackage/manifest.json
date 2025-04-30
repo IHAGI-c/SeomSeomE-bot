@@ -14,8 +14,8 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "SeomSeomE${{APP_NAME_SUFFIX}}",
-        "full": "SeomSeomE"
+        "short": "SeomSeom${{APP_NAME_SUFFIX}}",
+        "full": "SeomSeom"
     },
     "description": {
         "short": "Haseom's Agent AI SeomSeomE",
